@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testcases.BookWithExistingTests">
+      <class name="com.testcases.BookinWithEmailTests">
         <methods>
           <include name="Initi"/>
           <include name="validatelogin" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.testcases.BookWithExistingTests -->
+      </class> <!-- com.testcases.BookinWithEmailTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
